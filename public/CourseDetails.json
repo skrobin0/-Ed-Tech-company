@@ -1,0 +1,54 @@
+
+
+
+{
+    "employee": [
+      {
+        "id": "100",
+        "department" : "Course Of Cardiology",
+        "name" : "Dr. A K Mahabub Kamal",
+        "img" : "https://i.ibb.co/Bzcg8WJ/cardiologist.jpg",
+        "about": "Dr A K Mahabub Kamal was an outstanding student and when he was in the fifth grade, he took an interest in Science and decided to become a heart surgeon. In the fifth grade, Dr A K Mahabub Kamal heard about a South African surgeon who had performed the world’s first heart transplant. Dr A K Mahabub Kamal was amazed at this surgery and began reading about it in depth. He became inspired by this surgery and decided to pursue further education in Medicine and change people’s lives.",
+        "description": "The Cardiology Course of  Ed-Tech has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. Our specialists diagnose and manage full range of heart conditions, and we are fully equipped with state-of-the-art facilities and complete range of services – from cardiac investigations to Interventional Cardiology procedures in ultramodern Catheterization Lab (Cath Lab). Cardio-pulmonary rehabilitation program is offered to patients through our Physical Medicine & Rehabilitation Centre. The hospital offers a multidisciplinary in-patient program, and also has complete Coronary Care Unit and Cardiothoracic ICU for critical cardiac patients. For emergency patients, we have 24-hour Accident & Emergency Centre and specialized team for stabilization and treatment of the patient."
+      },
+      {
+        "id": "101",
+        "department" : "Course Of Orthodontics",
+        "name" : "Dr. Shamima Nasrin",
+        "img" : "https://i.ibb.co/dfGhsK3/dentist.jpg",
+        "about": "The risk of tooth decay, gum disease and tooth loss can be reduced with good oral hygiene, a low-sugar and low-acid diet, wearing a mouthguard when playing sport, and regular visits to the dentist. And here comes the excellence of Dr. Shamima Nasrin Chodhury. She has reknown result with her patients and here at Medi care we cares the best, you know.",
+        "description": "The Orthodontic Course of  Ed-Tech consists of three orthodontics consultants, who work closely with their colleagues in the the oral and maxillofacial department, restorative dentistry and oral medicine.They are supported by several multidisciplinary teams offering a comprehensive orthodontic service for Oxfordshire, including joint restorative clinics, joint orthognathic clinics, regular dentoalveolar clinics and cleft and craniofacial clinics. Oxford is a regional centre for cleft lip and palate, and has one of four Department of Health funded craniofacial units. Information leaflets are available for many of the different treatment options available and patients are encouraged to ask questions in order to understand their treatment fully."
+      },
+      {
+        "id": "102",
+        "department" : "Course Of Traumatology",
+        "name" : "Dr. Ferdous Shahriar",
+        "img" : "https://i.ibb.co/mrs6Hpf/new1.jpg",
+        "about": "With expertise in arthroscopic and complex shoulder and elbow reconstruction, he utilizes state-of-the art surgical techniques and the latest technologies to treat the entire spectrum of shoulder and elbow injuries and problems. Each year, he performs close to 400 shoulder replacements, over 150 arthroscopic rotator cuff surgeries, and has become the regions leading tertiary referral center for complex shoulder and elbow problems. He is the highest volume shoulder replacement surgeon in the country. As a regional leader in Shoulder & Elbow Surgery, he became a member of the prestigious American Shoulder and Elbow Surgeons.",
+        "description": "The Course of Orthopaedics offers out-patient consultation services and procedures. It is well supported by fully equipped operation theatre (OT), intensive care units for pre-and post-operative care, as well as rehabilitation services in Physical Medicine & Rehabilitation Centre. The state-of-the-art OT is equipped with the latest fracture tables and imaging facilities including a C-arm image intensifier. The hospital is also equipped with CT scans, MRI scans, and X-rays for prompt screening facilities. The theatre is scrupulously maintained such that the infection rate is always near zero. We take care of: 1. Any kind of Fracture & Soft tissue injury 2. Spine & Back Care 3. All kind of Hip & Knee Problems 4. Pediatric Orthopaedics 5. Shoulder Surgery 6. Sports injury 7. Old age with Bone Problems."
+      },
+      {
+        "id": "103",
+        "department" : "Course Of Neurology",
+        "name" : "Dr. A M Rezaul Haider",
+        "img" : "https://i.ibb.co/02wRq0R/heart.jpg",
+        "about": "He has been exposed to all ranges of cranial emergencies starting from trauma to intracerebral hematomas and strokes; entire ranges of emergency spinal decompression, stabilization and fusion; full spectrum of routine cases like brain tumors (supra and infratentorial, intra or extra axial), trans-sphenoidal surgery for sellar - suprasellar tumors, spinal tumors; congenital and pediatric neurosurgical disorders; degenerative spine diseases; endoscopic neurosurgical procedures; vascular disorders like aneurysms and AVMs. He has multiple publications in national and international journals.",
+        "description": "Course of Neurology of Medi Care Hospital provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles.  Ed-Tech is the only hospital in the country to be providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof. The Neurology Department has experienced American Board Certified Neurologist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of neurologists, nurses and technologists, who are committed to patient care. Neuro Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre."
+      },
+      {
+        "id": "104",
+        "department" : "Course Of Prostheses",
+        "name" : "Dr. S M Mahabub Kamal",
+        "img" : "https://i.ibb.co/xjvShW3/prostheses.jpg",
+        "about": "Many of our out-of-state patients gladly make a trip to see us because they have experienced how much better they feel living with an exceptionally artistic and accurate prosthesis versus a less impressive one they might have initially received closer to their home. We are also making our services more convenient every year as we develop new locations across the country. With our new “digital distance service” we can even design our prosthetics entirely based on CT scans or impressions sent to our main facility. The list of possibilities is growing each year.",
+        "description": "We are a specialised service providing clinical assessment and evaluation for a wide range of clients with limb loss and deficiency, leading to the custom prescription, design and manufacture of prostheses in our facility. We provide prosthetic rehabilitation services as well as comprehensive definitive management. We are committed to working closely with the amputee medical team as well as with allied health professionals including physiotherapists, occupational therapists and podiatrists. You can expect a high quality, evidence-based and up-to-date service consisting of all aspects of prosthetic management, including relevant medical and prosthetic assessment, prescription, casting, fitting and delivery, as well as liaison with other allied health professionals. Regular reassessment of prosthetic needs and goals in addition to maintenance and adjustments will ensure continued good outcomes from your prosthetic management."
+      },
+      {
+        "id": "105",
+        "department" : "Course Of Pulmonary Diseases",
+        "name" : "Dr. Abdul Kamal",
+        "img" : "https://i.ibb.co/tJDFJLj/new2.jpg",
+        "about": "Dr. Abdul Kalam is a Chest Diseases & Asthma Specialist doctor in Medi Care Hospital. His qualification is MBBS, DTCD, MD (Chest), FCCP (USA), FRCP (Edinburgh). He is a Professor in the Department of Medicine at Z.H. Sikder Women's Medical College & Hospital. He has reknown result with his patients and here at Medi care we cares the best, you know",
+        "description": " Ed-Tech has an advanced dedicated Pulmonology Course providing Comprehensive, Consultative, Diagnostic and Therapeutic Services under one roof. It is a unit designed for prevention & early detection of respiratory diseases, performing required Interventions and providing Pulmonary Rehabilitation to help patients with respiratory illnesses to lead healthier and productive lives. Our vision is a society whose respiratory health permits a long and productive life. The latest technology is used to provide state-of-the-art care in both the Outpatient and Hospital settings, including the Intensive Care Units. Pulmonology/ Chest Medicine / Respiratory Medicine is a subspecialty of Internal Medicine that focuses on the diagnosis and treatment of patients with illnesses that affect the lungs and breathing. A Pulmonologist has expertise in the evaluation of patients with symptoms like breathlessness, cough, chest pain, wheezing, chest tightness, snoring & sleepiness, coughing out blood as well as abnormalities of the chest x-ray, chest CT scan and other chest imaging studies."
+      }
+    ]}

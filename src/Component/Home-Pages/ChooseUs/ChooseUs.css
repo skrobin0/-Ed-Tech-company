@@ -1,0 +1,9 @@
+.chooseUs-container{
+    background-image: url("../../../Images//choose.jpg");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+  }

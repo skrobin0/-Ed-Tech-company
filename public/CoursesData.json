@@ -1,0 +1,68 @@
+
+[
+    {
+      "name": "Cardio Monitoring",
+      "description": "The Cardiology Department of  Ed-Tech has gained reputation for its dynamic and innovation in the diagnosis, investigation and treatment of patients with all forms of heart diseases, both generally encountered and complex cases. We have a dedicated unit of four full-time Consultants, and a team of junior doctors, nurses, and technicians trained to the highest standard in cardiac assessment. Our specialists diagnose and manage full range of heart conditions, and we are fully equipped with state-of-the-art facilities and complete range of services – from cardiac investigations to Interventional Cardiology procedures in ultramodern Catheterization Lab (Cath Lab). Cardio-pulmonary rehabilitation program is offered to patients through our Physical Medicine & Rehabilitation Centre. The hospital offers a multidisciplinary in-patient program, and also has complete Coronary Care Unit and Cardiothoracic ICU for critical cardiac patients. For emergency patients, we have 24-hour Accident & Emergency Centre and specialized team for stabilization and treatment of the patient.",
+      "sit": 25,
+      "duration": "2 year",
+      "price": 250,
+      "eligibility" : "Anyone can apply. But we appreciate mostly this course for kids and specifically initial level learner",
+      "id": 100,
+      "img": "https://i.ibb.co/gFq8b50/cardiology.jpg"
+    },
+
+    {
+      "name": "Orthodontics",
+      "description": "The Orthodontic Department of  Ed-Tech consists of three orthodontics consultants, who work closely with their colleagues in the the oral and maxillofacial department, restorative dentistry and oral medicine.They are supported by several multidisciplinary teams offering a comprehensive orthodontic service for Oxfordshire, including joint restorative clinics, joint orthognathic clinics, regular dentoalveolar clinics and cleft and craniofacial clinics. Oxford is a regional centre for cleft lip and palate, and has one of four Department of Health funded craniofacial units. Information leaflets are available for many of the different treatment options available and patients are encouraged to ask questions in order to understand their treatment fully.",
+      "sit": 35,
+      "duration": "1.5 year",
+      "price": 870,
+      "eligibility" : "A candidate having at least 6 month knowledge in using Bengali language in any relevant discipline can join this course",
+      "id": 101,
+      "img": "https://i.ibb.co/NKdwB5k/orthodontics.jpg"
+    },
+
+    {
+      "name": "Clinical Traumatology",
+      "description": "The department of Orthopaedics offers out-patient consultation services and procedures. It is well supported by fully equipped operation theatre (OT), intensive care units for pre-and post-operative care, as well as rehabilitation services in Physical Medicine & Rehabilitation Centre. The state-of-the-art OT is equipped with the latest fracture tables and imaging facilities including a C-arm image intensifier. The hospital is also equipped with CT scans, MRI scans, and X-rays for prompt screening facilities. The theatre is scrupulously maintained such that the infection rate is always near zero. We take care of: 1. Any kind of Fracture & Soft tissue injury 2. Spine & Back Care 3. All kind of Hip & Knee Problems 4. Pediatric Orthopaedics 5. Shoulder Surgery 6. Sports injury 7. Old age with Bone Problems.",
+      "sit": 40,
+      "duration": "6 month",
+      "price": 1290,
+      "eligibility" : "This course is open for everyone. With a flexible timetable, a selection of credit packages and your choice of lessons and teacher, you can build a learning schedule that works for you.",
+      "id": 102,
+      "img": "https://i.ibb.co/HF1JNFH/traumatology.jpg"
+    },
+
+    {
+        "name": "Specialized Neurology",
+        "description": "Department of Neurology of  Ed-Tech provides comprehensive consultative services, diagnostic testing and treatment for a broad spectrum of neurological conditions, including diseases of the brain, spinal cord, peripheral nerves and muscles. Medi Care Hospital is the only hospital in the country to be providing advanced and comprehensive Neurology & Neurosurgery facilities under one roof. The Neurology Department has experienced American Board Certified Neurologist and also the only qualified epilepsy specialist of the country. The department uses the latest technology and facilities, and is staffed by an experienced team of neurologists, nurses and technologists, who are committed to patient care. Neuro Rehabilitation services are provided for our patients in association with Physical Medicine & Rehabilitation Centre.",
+        "sit": 35,
+        "duration": "1.5 years",
+        "price": 2200,
+        "eligibility" : "A candidate having at least 1-year experience both in speaking and writing can apply for this course. Every Specialization includes a hands-on project. You'll need to successfully finish the project(s) to complete the Specialization and earn your certificate.",
+        "id": 103,
+        "img": "https://i.ibb.co/LxNfgcy/neurology.jpg"
+      },
+
+    {
+      "name": "Prostheses",
+      "description": "We are a specialised service providing clinical assessment and evaluation for a wide range of clients with limb loss and deficiency, leading to the custom prescription, design and manufacture of prostheses in our facility. We provide prosthetic rehabilitation services as well as comprehensive definitive management. We are committed to working closely with the amputee medical team as well as with allied health professionals including physiotherapists, occupational therapists and podiatrists. You can expect a high quality, evidence-based and up-to-date service consisting of all aspects of prosthetic management, including relevant medical and prosthetic assessment, prescription, casting, fitting and delivery, as well as liaison with other allied health professionals. Regular reassessment of prosthetic needs and goals in addition to maintenance and adjustments will ensure continued good outcomes from your prosthetic management.",
+      "sit": 30,
+      "duration": "2 month",
+      "price": 870,
+      "eligibility" : "Any People who are seeking to learn new language, who are thirsty for more knowledge and experience",
+      "id": 104,
+      "img": "https://i.ibb.co/vsK1VfK/prosthesis.jpg"
+    },
+
+    {
+      "name": "Pulmonary",
+      "description": " Ed-Tech has an advanced dedicated Pulmonology department providing Comprehensive, Consultative, Diagnostic and Therapeutic Services under one roof. It is a unit designed for prevention & early detection of respiratory diseases, performing required Interventions and providing Pulmonary Rehabilitation to help patients with respiratory illnesses to lead healthier and productive lives. Our vision is a society whose respiratory health permits a long and productive life. The latest technology is used to provide state-of-the-art care in both the Outpatient and Hospital settings, including the Intensive Care Units. Pulmonology/ Chest Medicine / Respiratory Medicine is a subspecialty of Internal Medicine that focuses on the diagnosis and treatment of patients with illnesses that affect the lungs and breathing. A Pulmonologist has expertise in the evaluation of patients with symptoms like breathlessness, cough, chest pain, wheezing, chest tightness, snoring & sleepiness, coughing out blood as well as abnormalities of the chest x-ray, chest CT scan and other chest imaging studies.",
+      "sit": 20,
+      "duration": "7 month",
+      "price": 1100,
+      "eligibility" : "A candidate having at least 6months schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions",
+      "id": 105,
+      "img": "https://i.ibb.co/gZZd1Tc/pulmonary.jpg"
+    }
+]
